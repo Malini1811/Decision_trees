@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on predicting the presence of heart disease using machine learning models like **Decision Tree** and **Ensemble Methods** such as **Random Forest** and **Gradient Boosting**.
+This project focuses on predicting the presence of heart disease using machine learning models like **Decision Tree** and **Ensemble Methods** such as **Random Forest**, **Gradient Boosting** and **XGBoost**.
 
 ## Files Included
 
